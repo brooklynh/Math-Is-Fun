@@ -1,0 +1,63 @@
+Let's Play!
+-----------
+Version Changes
+
+Version 1.3.1
+-------------
+Minor changes
+-changed logic behind division
+-changed BigDecimal logic/usage
+-removed MathContext from the program
+
+Version 1.3.0
+-------------
+Major changes to the program:
+-Changed the logic behind game selection
+-Removed the terminal screen from Math Is Fun!
+-Added a panel for number selection and precision selection
+-Added a panel to present the problem and show a progress bar
+-Added a panel to show the correct answer if user answers incorrectly
+-Added a panel to show a "Correct!" logo if the user answers correctly
+-Added a panel to ask if the user wants to play again
+Minor changes to the program:
+-Increased font size and button sizes
+
+Version 1.2.1
+-------------
+Minor changes to the program:
+-Added a "Guest" button on the login page
+-Made guest mode optional even if registry exists
+-Fixed a login logic error
+-Fixed a "play again" logic error
+
+Version 1.2.0
+-------------
+Major changes to the program:
+-Improved GUI
+
+Version 1.1.1
+-------------
+Minor changes to the program:
+-Added a guest mode
+-Added options to create 'Student' folder if not found.
+-Improved format of saved data
+
+
+version 1.0.1:
+--------------
+Major feature changes of the program
+-Added GUI
+-Added mechanics to save game information
+-Added login system
+
+Added the following features to "Math Is Fun!"
+-Users can pick the number of questions
+-Users can set decimal precision for division mode answers
+
+
+Version 0.3.1:
+--------------
+Terminal program.
+Fully functional math game.
+Four math game modes with three levels of difficulty.
+Student feedback.
