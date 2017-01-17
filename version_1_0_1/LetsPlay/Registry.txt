@@ -1,3 +1,0 @@
-first	last	user	pass
-John	Doe	john	doe
-Jane	Doe	jane	doe
